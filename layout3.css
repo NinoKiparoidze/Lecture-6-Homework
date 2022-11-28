@@ -1,0 +1,67 @@
+.header {
+    background-color: orangered;
+    box-sizing: border-box;
+    height: 100px;
+    width: 1037px;
+    margin: 0;
+    padding: 10px;
+}
+
+.nav {
+    box-sizing: border-box;
+    background-color: orange;
+    height: 60px;
+    width: 1037px;
+    margin: 0;
+    padding: 10px;
+}
+
+#aside {
+    width: 400px;
+    height: 140px;
+    padding: 10px;
+    float: right;
+    background-color: rgba(241, 241, 115, 0.948);
+}
+
+.footer {
+    height: 50px;
+    background-color: #003152;
+    padding: 10px;
+    color: white;
+}
+
+.section-green {
+    background-color: #66bb6a;
+    height: 600px;
+    padding: 10px;
+}
+
+.section-one {
+    margin: 10px 0 10px;
+}
+
+.section-two {
+    margin: 30px 0 30px 0;
+}
+
+.box1 {
+    background-color: #008B8B;
+    height: 60px;
+    width: 1250px;
+    margin: 10px auto;
+}
+
+.box2 {
+    background-color: #008B8B;
+    height: 60px;
+    width: 1250px;
+    margin: 10px auto;
+}
+
+.box3 {
+    background-color: #008B8B;
+    height: 60px;
+    width: 1250px;
+    margin: 10px auto;
+}

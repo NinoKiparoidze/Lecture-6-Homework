@@ -1,0 +1,68 @@
+.header {
+    background-color: orangered;
+    box-sizing: border-box;
+    height: 60px;
+    margin: 0;
+    padding: 10px;
+}
+
+.nav {
+    box-sizing: border-box;
+    background-color: orange;
+    height: 50px;
+    margin: 0;
+    padding: 10px;
+}
+
+.section-green {
+    background-color: #66bb6a;
+    height: 500px;
+    width: 1000px;
+    padding: 10px;
+}
+
+.section-one {
+    margin: 0;
+}
+
+.section-two {
+    margin: 20px 0;
+}
+
+.box1 {
+    background-color: #008B8B;
+    height: 60px;
+    width: 950px;
+    margin: 10px auto;
+}
+
+.box2 {
+    background-color: #008B8B;
+    height: 60px;
+    width: 950px;
+    margin: 10px auto;
+}
+
+.box3 {
+    background-color: #008B8B;
+    height: 60px;
+    width: 950px;
+    margin: 10px auto;
+}
+
+
+#aside {
+    width: 435px;
+    height: 500px;
+    padding: 10px;
+    margin: 0;
+    float: right;
+    background-color: blanchedalmond;
+}
+
+.footer {
+    height: 50px;
+    background-color: #003152;
+    padding: 10px;
+    color: white;
+}
